@@ -119,6 +119,7 @@ Mạng diện rộng WAN (Wide Area Network) có phạm vi bao phủ một vùng
  <li>chia sẽ tài nguyên phần cứng: một ví dụ cụ thể của hoạt động này là chia sẽ máy in thông qua các server máy in , kỹ thuật này cho phép một máy in có thể được sử dụng chung bởi nhiều người dùng trong mạng doanh nghiệp.</li>
  <li>hệ thống lưu trữ và backup : gồm các server lưu trữ, các thiết bị lưu trữ dùng chung... cho phép doanh nghiệp có thể thực hiện các giải pháp lưu trữ hiêu quả, giúp quản trị tốt cơ sở dữ liệu </li>
  </ul>
+ 
 ##### các ứng dụng người dùng 
 
  - có rất nhiều ứng dụng người dùng được thực hiện thông qua mạng. có thể kể ra một số ứng dụng chính như thư điện tử (mail) , trình duyệt web , nhắn tin , hội họp và làm việc trực tuyên , chia sẽ file ..... 
@@ -235,7 +236,7 @@ Lớp trình diễn hoạt động như tầng dữ liệu trên mạng. lớp n
 Tầng 7: Tầng ứng dụng (Application layer)
 Tầng ứng dụng là tầng gần với người sử dụng nhất. Nó cung cấp phương tiện cho người dùng truy nhập các thông tin và dữ liệu trên mạng thông qua chương trình ứng dụng. Tầng này là giao diện chính để người dùng tương tác với chương trình ứng dụng, và qua đó với mạng. Một số ví dụ về các ứng dụng trong tầng này bao gồm Telnet, Giao thức truyền tập tin FTP và Giao thức truyền thư điện tử SMTP, HTTP, X.400 Mail remote
 
-###3.  Mô hình TCP/IP: Các lớp? So sánh với mô hình OSI.<a name=3></a>
+### 3.  Mô hình TCP/IP: Các lớp? So sánh với mô hình OSI.<a name=3></a>
 
  - TCP/IP là bộ giao thức cho phép kết nối các hệ thống mạng không đồng nhất với nhau. Ngày nay TCP/IP được sử dụng rộng rãi trong mạng cục bộ cũng như mạng toàn cầu.
 
@@ -264,7 +265,7 @@ Tầng ứng dụng
 
  - Tầng ứng dụng là tầng trên của mô hình TCP/IP bao gồm các tiến trình và các ứng dụng cung cấp cho người sử dụng để truy cập mạng. Có rất nhiều ứng dụng được cung cấp trong tầng này , mà phổ biến là Telnet: sử dụng trong việc truy cập mạng từ xa, FTP ( File Transport Protocol ) dịch vụ truyền tệp tin., EMAIL : dịch vụ truyền thư tín điện tử. WWW ( Word Wide Web )
 
-#####. So sánh TCP/IP với OSI
+##### . So sánh TCP/IP với OSI
 
  - Mỗi tầng trong TCP/IP có thể là một hay nhiều tầng của OSI . Bảng sau chỉ rõ mối tương quan giữa các tầng trong mô hình TCP/IP với OSI
 
