@@ -105,7 +105,7 @@ Mạng diện rộng WAN (Wide Area Network) có phạm vi bao phủ một vùng
  - một hệ thống mạng cơ bản nhất có thể bao gồm một số thành phần như sau :
  <ul>
  <li> các pc đầu cuối : các máy tính cá nhân hoạt động như là các điểm truy nhập đầu cuối, gửi và nhận dữ liệu về cho người dùng.</li>
- <li> các kết nối : mỗi kết nối được tạo thành từ một số thành phần để cho phép truyền dữ liệu từ thiết bị này sang thiết bị kia. một số thành phần cơ bản của kết nối như **card mạng ** , **phương tiện truyền dẫn ** hay * các đầu nối ** </li>
+ <li> các kết nối : mỗi kết nối được tạo thành từ một số thành phần để cho phép truyền dữ liệu từ thiết bị này sang thiết bị kia. một số thành phần cơ bản của kết nối như **card mạng** , **phương tiện truyền dẫn** hay **các đầu nối** </li>
  <li> ngoài ra các thiết bị còn được kết nối với các thiết bị tập trung khác như switch và router để thực hiện các chức năng như chuyển mạch và định tuyến các gói tin </li>
  </ul>
 
@@ -135,12 +135,12 @@ Mạng diện rộng WAN (Wide Area Network) có phạm vi bao phủ một vùng
 
  - khi nói đến một mạng người ta thường xem xét các đặc trưng sau của mạng:
  <ul>
- <li>**speed** cho biết mạng nhanh đến đâu trong hoạt động truyền dữ liệu. tốc độ của mạng được đo bằng đơn vị bps(bit per second) là số bit dữ liệu được truyền qua trong 1s </li>
- <li>**cost** chi phí để xây dựng và vận hành mạng , chi phí này có thể bao gồm chi phí mua sắm trang thiết bị , chi phí nâng cấp hệ thống , chi phí cho hoạt động vận hành , quản trị hệ thống đó </li>
- <li>**security** tính bảo mật của hệ thống mạng </li>
- <li>**availability** tính sẵn sàng của hệ thống là tính liên tục trong hoạt động truy cập và truyền dữ liệu</li>
- <li>**reliability** độ tin cậy của hệ thống , là khả năng truyền dữ liệu gây ít lỗi nhất có thể đảm bảo sự tin cậy về mặt chất lượng khi truyền dữ liệu</li>
- <li>**topology** sơ đồ mạng : bản đồ cho biết cách thức đấu nối giữa các thiết bị và hướng di chuyển của các luồng dữ liệu qua mạng.</li>
+ <li> **speed** cho biết mạng nhanh đến đâu trong hoạt động truyền dữ liệu. tốc độ của mạng được đo bằng đơn vị bps(bit per second) là số bit dữ liệu được truyền qua trong 1s </li>
+ <li> **cost** chi phí để xây dựng và vận hành mạng , chi phí này có thể bao gồm chi phí mua sắm trang thiết bị , chi phí nâng cấp hệ thống , chi phí cho hoạt động vận hành , quản trị hệ thống đó </li>
+ <li> **security** tính bảo mật của hệ thống mạng </li>
+ <li> **availability** tính sẵn sàng của hệ thống là tính liên tục trong hoạt động truy cập và truyền dữ liệu</li>
+ <li> **reliability** độ tin cậy của hệ thống , là khả năng truyền dữ liệu gây ít lỗi nhất có thể đảm bảo sự tin cậy về mặt chất lượng khi truyền dữ liệu</li>
+ <li> **topology** sơ đồ mạng : bản đồ cho biết cách thức đấu nối giữa các thiết bị và hướng di chuyển của các luồng dữ liệu qua mạng.</li>
  </ul>
 
 #### 1.4 các loại topology <a name="1.4"></a>
