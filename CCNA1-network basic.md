@@ -32,13 +32,13 @@
 ---------------
 
 
-###1. tìm hiểu về mạng căn bản <a name="1"></a>
+### 1. tìm hiểu về mạng căn bản <a name="1"></a>
 
  - Với sự phát triển của khoa học và kỹ thuật, hiện nay các mạng máy tính đã phát triển một cách nhanh chóng và đa dạng cả về quy mô,hệ điều hành và ứng dụng. Do vậy việc nghiên cứu chúng ngày càng trở nên phức tạp.
 
  - Để có thể thiết kế,quản trị một mạng máy tính,trước hết phải hiểu mạng máy tính đó hoạt động như thế nào. Thông thường,khi nghiên cứu về một mảng kiến thức mới,việc đầu tiên phải làm là nắm chắc các khái niệm tổng quát,căn bản ban đầu. Bằng cách này,người học mới có thể tự đi sâu tìm hiểu các chi tiết bên trong.
 
-####1.1 network là gì <a name ="1.1"></a>
+#### 1.1 network là gì <a name ="1.1"></a>
 
  - Mạng máy tính là một nhóm các máy tính và thiết bị ngoại vi kết nối với nhau thông qua các phương tiện truyền dẫn như cáp xoắn,cáp quang, sóng điện từ,tia hồng ngoại… để chia sẻ dữ liệu cho nhau. Dữ liệu truyền từ máy này sang máy khác đều là các bit nhị phân 0 và 1, sau khi biến đổi thành điện thế hoặc sóng điện từ,sẽ được truyền qua môi trường truyền dẫn bên dưới.
 
@@ -109,7 +109,7 @@ Mạng diện rộng WAN (Wide Area Network) có phạm vi bao phủ một vùng
  <li> ngoài ra các thiết bị còn được kết nối với các thiết bị tập trung khác như switch và router để thực hiện các chức năng như chuyển mạch và định tuyến các gói tin </li>
  </ul>
 
-####1.2 lợi ích <a name="1.2"></a>
+#### 1.2 lợi ích <a name="1.2"></a>
 
 ##### chức năng chia sẽ tài nguyên mạng.
 
@@ -130,7 +130,7 @@ Mạng diện rộng WAN (Wide Area Network) có phạm vi bao phủ một vùng
 
 3) ứng dụng thời gian thực : bao gồm các ứng dụng truyền thoại hoặc video qua mạng ( voip hoặc video) với các ứng dụng này người dùng tương tác trực tiếp với nhau theo thời gian thực thông qua các cuộc gọi điện thoại IP hoặc hội nghị truyền hình qua kết nối mạng. 
 
-####1.3 Các đặc trưng? <a name="1.3"></a> 
+#### 1.3 Các đặc trưng? <a name="1.3"></a> 
 
  - khi nói đến một mạng người ta thường xem xét các đặc trưng sau của mạng:
  <ul>
@@ -142,7 +142,7 @@ Mạng diện rộng WAN (Wide Area Network) có phạm vi bao phủ một vùng
  <li>**topology** sơ đồ mạng : bản đồ cho biết cách thức đấu nối giữa các thiết bị và hướng di chuyển của các luồng dữ liệu qua mạng.</li>
  </ul>
 
-####1.4 các loại topology <a name="1.4"></a>
+#### 1.4 các loại topology <a name="1.4"></a>
 
  - có hai topology có thể có cho một sơ đồ mạng: sơ đồ vật lý và sơ đồ luận lý .
  <ul>
@@ -170,9 +170,9 @@ Mạng diện rộng WAN (Wide Area Network) có phạm vi bao phủ một vùng
 
  - 100BASE-T tương tự như 10BASE-T nhưng tốc độ cao hơn 100 Mb/s
 
-###2. mô hình OSI. <a name="2"></a>
+### 2. mô hình OSI. <a name="2"></a>
 
-####2.1 hoàn cảnh ra đời <a name="2.1"></a>
+#### 2.1 hoàn cảnh ra đời <a name="2.1"></a>
 
 - với mô hình kiểu cũ , các thiết bị đến từ các nhà sản xuất khác nhau không thể truyền thông được cho nhaumà chỉ có thể truyền thông được cho các thiết bị cùng nhà sản xuất ~ví dụ~ 1 máy tính của IBM chỉ có thể giao tiếp được với 1 máy của IBM mà không thể trao đồi với 1 máy của HP. 
 
@@ -202,7 +202,7 @@ Mạng diện rộng WAN (Wide Area Network) có phạm vi bao phủ một vùng
 
  - Mặt khác, có nhiều người lại cho rằng, ưu điểm đáng kể nhất trong toàn bộ cố gắng của công trình mạng truyền thông của OSI là nó đã thất bại trước khi gây ra quá nhiều tổn thất.
 
-####2.2  các lớp của mô hình và chức năng của từng lớp?<a name="2.2"></a>
+#### 2.2  các lớp của mô hình và chức năng của từng lớp?<a name="2.2"></a>
 
 mô hình OSI có dạng :
 ![](https://i.imgur.com/VbfsF73.png)
